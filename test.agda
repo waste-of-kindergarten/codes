@@ -1,3 +1,3 @@
-data ℕ : Set where
-  zero : ℕ
-  suc  : ℕ → ℕ
+open import plfa.part1.Naturals using (ℕ)
+
+
